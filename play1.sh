@@ -5,3 +5,5 @@ do
 	echo this is a test print $i; 
 done
 
+echo `timedatectl`
+
